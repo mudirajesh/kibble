@@ -9,9 +9,8 @@ _<p align="center">"Enjoying a website for entertainment... yum yum yum"</p>_
 <div align="center" style="text-align:center; margin:auto;">
 <img align="center" src="https://bit.ly/43CH0eS" width="150"/>
 
-<img align="center" src="./img/logo.png" width= "170px"/>
-
 </div>
+<img align="center" src="./img/logo.png" width="150"/>
 
 ## Summary
 
