@@ -103,6 +103,3 @@ Contributions are highly welcomed. Feel free to fork, clone, make pull requests,
 
 - Special thanks to [@anjelayu] for his incredible courses 
   
-
-That being said
-_<p align="center">To the Front... to the Back... End to End... no slacking. Making ends meet. lol</p>_
