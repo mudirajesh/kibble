@@ -1,4 +1,4 @@
-# Netflix Clone
+# Netflix Clone   rename  Shaktimaan
 
 Replica of the Netflix website created as a light HTML CSS and JS exercise - [Check it out](https://kibble.netlify.app/)
 
